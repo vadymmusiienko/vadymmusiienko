@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vadym from Ukraine, and I currently study Computer Science in California.
+I'm Vadym from Ukraine, and I currently study Computer Science at Pomona College.
 
 
 ## 🌐 Socials:
