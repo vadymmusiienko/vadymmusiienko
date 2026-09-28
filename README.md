@@ -4,7 +4,13 @@
   </a>
 </p>
 
-### 🛠️ Tech Stack
+### Featured Work
+
+- **[aspc/aspc-website-v2](https://github.com/aspc/aspc-website-v2)** - The official website of the Associated Students of Pomona College, live at [pomonastudents.org](https://pomonastudents.org/). I am the lead software engineer. TypeScript, Next.js, Docker.
+- **[gem5-cxl](https://github.com/vadymmusiienko/gem5-cxl)** - A CXL controller implemented in the gem5 simulator to model remote, heterogeneous memory topologies. Part of my computer architecture research. C++, Python.
+- **[.dotfiles](https://github.com/vadymmusiienko/.dotfiles)** - My complete development environment: Neovim, tmux, and shell configuration, reproducible from a single clone.
+
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -29,7 +35,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="mailto:musiienkovadym@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -37,18 +43,5 @@
   <a href="https://www.instagram.com/vadim_musiienko/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vadymmusiienko&show_icons=true&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vadymmusiienko&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vadymmusiienko&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/vadymmusiienko">vadymmusiienko</a></i></p>
+<p align="center"><i>From <a href="https://github.com/vadymmusiienko">vadymmusiienko</a></i></p>
